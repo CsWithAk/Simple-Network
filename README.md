@@ -65,13 +65,13 @@ It addresses key areas such as:
 
 #### Router R3
 ```bash
-enable
-configure terminal
-hostname R3
-interface g0/0
+ enable
+ configure terminal
+ hostname R3
+ interface g0/0
  ip address 192.168.2.1 255.255.255.0
  no shutdown
-exit
+ exit
 ```
 
 ---
